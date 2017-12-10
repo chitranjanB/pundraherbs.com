@@ -43,29 +43,6 @@ Main page css start
 </button>
 <!-------------------------------Header-------------------->
 <header id="header" class="header-fixed">
-<div class="container">
-<div id="logo" class="pull-left">
-<a href="/"><img src="img/logo.png" alt="logo" title="logo" /></img></a>
-</div>
-<!----------------- #nav-menu-container ----------------------->
-<nav id="nav-menu-container">
-<ul class="nav-menu">
-<li class="menu-active">
-<a href="/">Home</a>
-</li>
-<li>
-<a href="/#about">About Us</a>
-</li>
-<li>
-<a href="/#portfolio">Products</a>
-</li>
-<li>
-<a href="/#contact">Contact Us</a>
-</li>
-</ul>
-</nav>
-<!--------------------- #nav-menu-container ends----------------------->
-</div>
 </header>
 <!------------------------ #header ends------------------------------->
 <!------------------------ section------------------------------->
@@ -124,18 +101,6 @@ Main page css start
 </section>
 <!--==========================Footer============================-->
 <footer id="footer">
-<div class="footer-top">
-<div class="container">
-</div>
-</div>
-<div class="container">
-<div class="copyright">
-&copy; Copyright <strong>Pundra Herbs</strong>. All Rights Reserved
-</div>
-<div class="credits">
-Reach us at <a href="mailto:kanakkundan@gmail.com" data-toggle="tooltip" title="Click to compose an e-mail">kanakkundan@gmail.com</a>
-</div>
-</div>
 </footer>
 <!-------------------------------- #footer ends --------------------------------------->
 <!-- JavaScript Libraries -->
@@ -157,7 +122,10 @@ Reach us at <a href="mailto:kanakkundan@gmail.com" data-toggle="tooltip" title="
 
     <script>
     $('#spinner').show();
-    
+
+    $("#header").load("header.html");
+    $("#footer").load("footer.html");
+	   
     var root = 'json/no-gas-syrup.json';
     $.ajax({
       url: root,
