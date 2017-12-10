@@ -1,0 +1,179 @@
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta http-equiv="keywords" name="keywords" content="">
+<meta http-equiv="description" name="description"content="">
+
+ <!-- Bootstrap Styles -->
+<link href="css/bootstrap.css" rel="stylesheet">
+
+<!--==========================
+Main page css start
+============================-->
+<!-- Bootstrap CSS File -->
+<link href="lib/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+<link href="lib/font-awesome/css/font-awesome.min.css" rel="stylesheet">
+<!-- Main Stylesheet File -->
+<link href="css/style.css" rel="stylesheet">
+<!-- ProductPage Stylesheet File -->
+<link href="css/productpage.css" rel="stylesheet">
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js">
+</script>
+
+<style>
+  .loader {
+    position: fixed;
+    z-index: 1000;
+    top: 330px;
+    display:none;
+  </style>
+
+<!--========== Main page css ends ============================-->
+<title></title>
+</head>
+<body style="">
+
+<div id="spinner" class="loader" style="width:100%; text-align:center">
+<img height="60" width="60" src="img/ajax_loader56.gif"/>
+</div>
+
+<button type="button" id="mobile-nav-toggle">
+<i class="fa fa-bars"></i>
+</button>
+<!-------------------------------Header-------------------->
+<header id="header" class="header-fixed">
+<div class="container">
+<div id="logo" class="pull-left">
+<a href="/"><img src="img/logo.png" alt="logo" title="logo" /></img></a>
+</div>
+<!----------------- #nav-menu-container ----------------------->
+<nav id="nav-menu-container">
+<ul class="nav-menu">
+<li class="menu-active">
+<a href="/">Home</a>
+</li>
+<li>
+<a href="/#about">About Us</a>
+</li>
+<li>
+<a href="/#portfolio">Products</a>
+</li>
+<li>
+<a href="/#contact">Contact Us</a>
+</li>
+</ul>
+</nav>
+<!--------------------- #nav-menu-container ends----------------------->
+</div>
+</header>
+<!------------------------ #header ends------------------------------->
+<!------------------------ section------------------------------->
+<section class="blog-wrapper" style="margin-top: 80px;">
+<div class="container">
+<br/><br/>
+<div class="shop_wrapper col-lg-8 col-md-8 col-sm-12 col-xs-12">
+<div class="general_row">
+<!------------------------ product image------------------------------->
+<div class="shop-left shop_item col-lg-6">
+<div class="product-page"><br/><br/><br/>
+<img src="" alt="" title="" class="img-responsive product-img">
+</div>
+</div>
+<!------------------------ product image ends------------------------------->
+<div class="col-lg-6">
+<h1 class="product-title"></h1>
+<br/><br/>
+<!---------------------#Indications --------------------------------------->
+<h2 class="indication-title"></h2>
+<br/><br/>
+<!---------------------#Ingredients --------------------------------------->
+<h2 class="ingredients-title"></h2>
+<br/>
+<br/>
+<!---------------------#Dosage --------------------------------------->
+<h2 class="dosage-title"></h2>
+<br/>
+<br/>
+<!---------------------#Packing --------------------------------------->
+<h2 class="packing-title"></h2>
+<br/>
+<br/>
+</div>
+<!-- end shop-right -->
+</div>
+<!-- end row -->
+</div>
+<!----------------------------------Offer banners----------------------------------------->
+<div id="sidebar" class="col-lg-4 col-md-4 col-sm-12 col-xs-12">
+<div class="widget">
+<a href="/#contact" id="adv1" target="_blank">
+<img class="img-responsive" src="img/portfolio/offer1.png" title="Contact us now" alt="free sample offer"/>
+</a>
+</div>
+<div class="widget">
+<a href="/#contact"" id="adv2" target="_blank">
+<img class="img-responsive" src="img/portfolio/offer2.png" title="Contact us now" alt="interested in buying"/>
+</a>
+</div>
+<!-- end widget -->
+</div>
+<!----------------------------------Offer banners ends----------------------------------------->
+</div>
+<!-- end container -->
+</section>
+<!--==========================Footer============================-->
+<footer id="footer">
+<div class="footer-top">
+<div class="container">
+</div>
+</div>
+<div class="container">
+<div class="copyright">
+&copy; Copyright <strong>Pundra Herbs</strong>. All Rights Reserved
+</div>
+<div class="credits">
+Reach us at <a href="mailto:kanakkundan@gmail.com" data-toggle="tooltip" title="Click to compose an e-mail">kanakkundan@gmail.com</a>
+</div>
+</div>
+</footer>
+<!-------------------------------- #footer ends --------------------------------------->
+<!-- JavaScript Libraries -->
+<!-- Required for hamburger menu -->
+  <script src="lib/jquery/jquery.min.js"></script>
+
+  <script src="lib/wow/wow.min.js"></script>
+ 
+  <script src="lib/superfish/superfish.min.js"></script>
+
+  <!-- Template Main Javascript File -->
+  <script src="js/main.js"></script>
+
+
+    <!-- JSON jquery -->
+    <script src="js/json.js"></script>
+   
+
+
+    <script>
+    $('#spinner').show();
+    
+    var root = 'http://127.0.0.1:8887/antibact-oil.json';
+    $.ajax({
+      url: root,
+      method: 'GET',
+      cache: false,
+      success: function(data){
+        renderThisPage(data);
+      },
+      complete: function(){
+        $('#spinner').hide();
+      }
+    });
+       
+     
+
+    </script>
+
+</body>
+</html>

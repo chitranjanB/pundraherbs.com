@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "keywords": "liver syrup, liver medicine, Pundra, Pundra liver syrup, ayurvedic",
+    "description": "Liverin syrup is an Ayurvedic medicine which helps in improving digestion, stimulating appetite, prevents fatty infiltration in the liver."
+  },
+  "pageTitle": "Ayurvedic Medicine for Liver | Liverin Syrup",
+  "productImg": {
+    "src": "img/portfolio/46-large-image.png ",
+    "alt": "Liverin Syrup",
+    "title": "Liverin Syrup"
+  },
+  "productTitle": "Liverin Syrup",
+  "productDescription": {
+    "line1": "Liverin syrup is an Ayurvedic medicine which helps in improving digestion, stimulating appetite, prevents fatty infiltration in the liver. ",
+    "line2": "It also protects the liver from viral hepatitis and prevents from alcoholic liver and drug-induced Hepatoxicity It is a herbal based syrup that is fortified with Andrographis Paniculate, Tephrosia Perurea & other powerful scientifically proven herbs. It is 100% Ayurvedic and safe"
+  },
+  "indication": {
+    "title": "Indication",
+    "listOfIndications": [
+      "Jaundice",
+      "Liver corrective",
+      "Drug induced Hepatoxity Apetitie",
+      "Liver dysfunction",
+      "Enlarge liver Digestive stimulant",
+      "Alcoholic or viral Hepatitis"
+    ]
+  },
+  "ingredient": {
+    "title": "Ingredients",
+    "information": "Each teaspoonful (10ml) of Liverin syrup contains extract derived from:",
+    "listOfIngredients": [
+      {
+        "ingredientName": "Andrographis Paniculate (Kalpnath)",
+        "ingredientAmount": "20.0 mg"
+      },
+      {
+        "ingredientName": "Terhrosia Perpurea (Sarpunkha)",
+        "ingredientAmount": "20.0mg"
+      },
+      {
+        "ingredientName": "Cichorium intybus (Kasni)",
+        "ingredientAmount": "20.0mg"
+      },
+      {
+        "ingredientName": "Terminilia Chebula (Abhaya)",
+        "ingredientAmount": "40.0mg"
+      },
+      {
+        "ingredientName": "Terminnillia Bellirica (Bivitak)",
+        "ingredientAmount": "40.0mg"
+      },
+      {
+        "ingredientName": "Boerbavia Diffusa (Punarnava)",
+        "ingredientAmount": "100.0mg"
+      },
+      {
+        "ingredientName": "Phyllanthus Urinaria (Bhumi ambia)",
+        "ingredientAmount": "200.0mg"
+      },
+      {
+        "ingredientName": "Eclipta Alba (Bhiringraj)",
+        "ingredientAmount": "200.0mg"
+      },
+      {
+        "ingredientName": "Glycyrhizza Glabara (Glycyrhizza Glabara)",
+        "ingredientAmount": "200.0mg"
+      }
+    ]
+  },
+  "dosage": {
+    "title": "Dosage",
+    "availableDosages": [
+      "Children: 1 teaspoon 3-4 times a day before meal",
+      "Adults: 2 teaspoon 3-4 times a day before meal"
+    ]
+  },
+  "packing": {
+    "title": "Packing",
+    "availableSizes": [
+      "200 ml"
+    ]
+  }
+}

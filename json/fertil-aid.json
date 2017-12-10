@@ -1,0 +1,45 @@
+{
+  "meta": {
+    "keywords": "fertility medicine, male reproductive medicine, Pundra fertil aid syrup, ayurvedic",
+    "description": "Pundra's Fertil Aid syrup is an ayurvedic formulation aimed at male reproductive health which is a powerful aphrodisiac that boosts libido and helps regain sexual vigor, stamina and lost vitality."
+  },
+  "pageTitle": "Ayurvedic Medicine for Liver | Fertil Aid Syrup",
+  "productImg": {
+    "src": "img/portfolio/46-large-image.png ",
+    "alt": "Fertil Aid Syrup",
+    "title": "Fertil Aid Syrup"
+  },
+  "productTitle": "Fertil Aid Syrup",
+  "productDescription": {
+    "line1": "Pundra's Fertil Aid syrup is an ayurvedic formulation aimed at male reproductive health which is a powerful aphrodisiac that boosts libido and helps regain sexual vigor, stamina and lost vitality.",
+    "line2": "It is a mix of unique medicinal plants that help to treat sexual weakness and aids in increasing the sperm count, its motility, and health as recommended by Ayurveda. It has no side effects and regular use will help tone the male reproductive organs and promote sexual health in males."
+  },
+  "indication": {
+    "title": "Indication",
+    "listOfIndications": [
+      "TODO"
+    ]
+  },
+  "ingredient": {
+    "title": "Ingredients",
+    "information": "Each teaspoonful (10ml) of Fertil Aid Syrup contains extract derived from:",
+    "listOfIngredients": [
+      {
+        "ingredientName": "TODO",
+        "ingredientAmount": "20.0 mg"
+      }
+    ]
+  },
+  "dosage": {
+    "title": "Dosage",
+    "availableDosages": [
+      "TODO"
+    ]
+  },
+  "packing": {
+    "title": "Packing",
+    "availableSizes": [
+      "TODO"
+    ]
+  }
+}

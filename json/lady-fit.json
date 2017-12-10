@@ -1,0 +1,101 @@
+{
+  "meta": {
+    "keywords": "ladyfit syrup, mestural bleeding, Pundra, Pundra lady fit syrup,  vaginal infection, fertility medicine",
+    "description": "Lady Fit Syrup is an Ayurvedic medicine which helps in reducing the risk of vaginal infection, normalizes the menstural cycle and boost fertility."
+  },
+  "pageTitle": "Uterine tonic for women | Lady Fit Syrup",
+  "productImg": {
+    "src": "img/portfolio/46-large-image.png ",
+    "alt": "Lady Fit Syrup",
+    "title": "Lady Fit Syrup"
+  },
+  "productTitle": "Lady Fit Syrup",
+  "productDescription": {
+    "line1": "Lady Fit Syrup is an Ayurvedic medicine which helps in reducing the risk of vaginal infection, normalizes the menstural cycle and boost fertility",
+    "line2": "It also protects increases the homeoglobin level and increases the RBC count and Serum levels It is a herbal based syrup that is fortified with Ulat kamal, Manjhistha, Nagkeshar & other powerful scientifically proven herbs. It is 100% Ayurvedic and safe."
+  },
+  "indication": {
+    "title": "Indication",
+    "listOfIndications": [
+      "Leucorrhoea",
+      "Amenorrhea",
+      "Heavy menstruation",
+      "Iron deficiency anemia",
+      "Premenstrual syndrome"
+    ]
+  },
+  "ingredient": {
+    "title": "Ingredients",
+    "information": "Each teaspoonful (10ml) of Liverin syrup contains extract derived from:",
+    "listOfIngredients": [
+      {
+        "ingredientName": "Ashoka",
+        "ingredientAmount": "350.0 mg"
+      },
+      {
+        "ingredientName": "Ulat Kamal",
+        "ingredientAmount": "350.0mg"
+      },
+      {
+        "ingredientName": "Khadir",
+        "ingredientAmount": "200.0mg"
+      },
+      {
+        "ingredientName": "Manjhistha",
+        "ingredientAmount": "200.0mg"
+      },
+      {
+        "ingredientName": "Nagkeshar",
+        "ingredientAmount": "200.0mg"
+      },
+      {
+        "ingredientName": "Bhiringraj",
+        "ingredientAmount": "100.0mg"
+      },
+      {
+        "ingredientName": "Bilwa",
+        "ingredientAmount": "100.0mg"
+      },
+      {
+        "ingredientName": "Haritki",
+        "ingredientAmount": "50.0mg"
+      },
+      {
+        "ingredientName": "Bivitak",
+        "ingredientAmount": "50.0mg"
+      },
+      {
+        "ingredientName": "Gohuru",
+        "ingredientAmount": "50.0mg"
+      },
+      {
+        "ingredientName": "Punarvana",
+        "ingredientAmount": "50.0mg"
+      },
+      {
+        "ingredientName": "Amla",
+        "ingredientAmount": "50.0mg"
+      },
+      {
+        "ingredientName": "Yashtimadhu",
+        "ingredientAmount": "50.0mg"
+      },
+      {
+        "ingredientName": "Ushir",
+        "ingredientAmount": "50.0mg"
+      }
+    ]
+  },
+  "dosage": {
+    "title": "Dosage",
+    "availableDosages": [
+      "2 teaspoon 3-4 times a day"
+    ]
+  },
+  "packing": {
+    "title": "Packing",
+    "availableSizes": [
+      "200 ml"
+    ]
+  }
+}

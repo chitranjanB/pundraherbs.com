@@ -1,0 +1,67 @@
+{
+  "meta": {
+    "keywords": "antiseptic, burns, boils, skin infection, oil, ayurvedic",
+    "description": "This antibacterial oil has been infused with the balanced combination of Ayurvedic herbs like TODO which helps to reduce skin infection, speeds up healing wounds and prevents toxicity."
+  },
+  "pageTitle": "Antiseptic oil for burns and cuts | AntiBact Oil",
+  "productImg": {
+    "src": "img/portfolio/46-large-image.png ",
+    "alt": "AntiBact Oil",
+    "title": "AntiBact Oil"
+  },
+  "productTitle": "AntiBact Oil",
+  "productDescription": {
+    "line1": "This antibacterial oil has been infused with the balanced combination of Ayurvedic herbs like TODO which helps to reduce skin infection, speeds up healing wounds and prevents toxicity.",
+    "line2": ""
+  },
+  "indication": {
+    "title": "Indication",
+    "listOfIndications": [
+      "Burns",
+      "Cuts",
+      "Boils",
+      "Skin Infection",
+      "Foot Ulcer",
+      "Curbuncle"
+    ]
+  },
+  "ingredient": {
+    "title": "Ingredients",
+    "information": "Each teaspoonful (10ml) of AntiBact Oil contains extract derived from:",
+    "listOfIngredients": [
+      {
+        "ingredientName": "Achyranthes Aspera",
+        "ingredientAmount": "50% w/v"
+      },
+      {
+        "ingredientName": "Coptis Teeta",
+        "ingredientAmount": "5% w/v "
+      },
+      {
+        "ingredientName": "Indifera Tinctoria",
+        "ingredientAmount": "5% w/v "
+      },
+      {
+        "ingredientName": "Casesia Tera",
+        "ingredientAmount": "1% w/v "
+      },
+      {
+        "ingredientName": "Bacehinia Varigeta",
+        "ingredientAmount": "5% w/v "
+      }
+    ]
+  },
+  "dosage": {
+    "title": "Dosage",
+    "availableDosages": [
+      "Apply gently over affected areas"
+    ]
+  },
+  "packing": {
+    "title": "Packing",
+    "availableSizes": [
+      "15 ml",
+      "30 ml"
+    ]
+  }
+}

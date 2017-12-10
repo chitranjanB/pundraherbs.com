@@ -1,0 +1,69 @@
+{
+  "meta": {
+    "keywords": "nasal congestion",
+    "description": "We have enriched this product with four different types of herbs that help relieve nasal congestion."
+  },
+  "pageTitle": "Ayurvedic Medicine for Nasal Congestion | Nasya drop",
+  "productImg": {
+    "src": "img/portfolio/46-large-image.png ",
+    "alt": "Nasya drop",
+    "title": "Nasya drop"
+  },
+  "productTitle": "Nasya drop",
+  "productDescription": {
+    "line1": "We have enriched this product with four different types of herbs that help relieve nasal congestion.",
+    "line2": "It is 100% herbal and provides quick relief from Nasal congestions and other Nasal disorders. Its efficacy and safety have also been clinically proven."
+  },
+  "indication": {
+    "title": "Indication",
+    "listOfIndications": [
+      "Nose Bleeding",
+      "Running Nose",
+      "Nasal Congestion",
+      "Headache",
+      "Itchy",
+      "Watery Eyes",
+      "Sinuses Pressure",
+      "Dry Nasal Passage"
+    ]
+  },
+  "ingredient": {
+    "title": "Ingredients",
+    "information": "Each teaspoonful (10ml) of Nasya drop contains extract derived from:",
+    "listOfIngredients": [
+      {
+        "ingredientName": "Achyranthes Aspera ",
+        "ingredientAmount": "50% w/v"
+      },
+      {
+        "ingredientName": "Coptis Teeta ",
+        "ingredientAmount": "5% w/v"
+      },
+      {
+        "ingredientName": "Indifera Tinctoria ",
+        "ingredientAmount": "5% w/v"
+      },
+      {
+        "ingredientName": "Casesia Tera ",
+        "ingredientAmount": "1% w/v"
+      },
+      {
+        "ingredientName": "Bacehinia Variegata ",
+        "ingredientAmount": "5% w/v"
+      }
+    ]
+  },
+  "dosage": {
+    "title": "Dosage",
+    "availableDosages": [
+      "As directed by physician"
+    ]
+  },
+  "packing": {
+    "title": "Packing",
+    "availableSizes": [
+      "15 ml",
+      "30 ml"
+    ]
+  }
+}

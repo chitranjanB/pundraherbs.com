@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "keywords": "CLAX-FE Capsule, joint pain, back pain, Spondylitis",
+    "description": "It quickly reduces burning pain, soreness and discomfort with potent anti-inflammation herbs."
+  },
+  "pageTitle": "Ayurvedic Medicine for Liver | CLAX-FE Capsule",
+  "productImg": {
+    "src": "img/portfolio/46-large-image.png ",
+    "alt": "CLAX-FE Capsule",
+    "title": "CLAX-FE Capsule"
+  },
+  "productTitle": "CLAX-FE Capsule",
+  "productDescription": {
+    "line1": "It quickly reduces burning pain, soreness and discomfort with potent anti-inflammation herbs.",
+    "line2": "It works by lubricating the joints slowly, repair and rebuild degenerated cartilage, connective tissue, and damaged joints "
+  },
+  "indication": {
+    "title": "Indication",
+    "listOfIndications": [
+      "Joint pain",
+      "Low back pain",
+      "Spondylitis",
+      "Sports Injuries",
+      "Frozen shoulder",
+      "Joint Stiffness"
+    ]
+  },
+  "ingredient": {
+    "title": "Ingredients",
+    "information": "Each teaspoonful (10ml) of CLAX-FE Capsule contains extract derived from:",
+    "listOfIngredients": [
+      {
+        "ingredientName": "Sonth",
+        "ingredientAmount": "25.0 mg"
+      },
+      {
+        "ingredientName": "Kalimirch",
+        "ingredientAmount": "25.0mg"
+      },
+      {
+        "ingredientName": "Kuchla",
+        "ingredientAmount": "25.0mg"
+      },
+      {
+        "ingredientName": "Kaunch beej",
+        "ingredientAmount": "25.0mg"
+      },
+      {
+        "ingredientName": "Ashwagandha",
+        "ingredientAmount": "100.0mg"
+      },
+      {
+        "ingredientName": "Shalavari",
+        "ingredientAmount": "50.0mg"
+      },
+      {
+        "ingredientName": "Shilajeet",
+        "ingredientAmount": "200.0mg"
+      },
+      {
+        "ingredientName": "Guggal",
+        "ingredientAmount": "50.0mg"
+      },
+      {
+        "ingredientName": "Loh Bhasam",
+        "ingredientAmount": "50.0mg"
+      }
+    ]
+  },
+  "dosage": {
+    "title": "Dosage",
+    "availableDosages": [
+      "As directed by physician"
+    ]
+  },
+  "packing": {
+    "title": "Packing",
+    "availableSizes": [
+      "60 Capsules",
+      "120 Capsules"
+    ]
+  }
+}

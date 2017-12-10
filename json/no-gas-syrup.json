@@ -1,0 +1,81 @@
+{
+  "meta": {
+    "keywords": "gas, stomach pain, indigestion, nausea, ayurvedic",
+    "description": "No Gas syrup is an ayurvedic medicine that provides relief from acidity as well as gas problems."
+  },
+  "pageTitle": "Ayurvedic Medicine for Indigestion | No Gas syrup",
+  "productImg": {
+    "src": "img/portfolio/46-large-image.png ",
+    "alt": "No Gas syrup",
+    "title": "No Gas syrup"
+  },
+  "productTitle": "No Gas syrup",
+  "productDescription": {
+    "line1": "No Gas syrup is an ayurvedic medicine that provides relief from acidity as well as gas problems.",
+    "line2": "We have enriched this syrup with special healing medicinal plants & ingredients like Trikatu, Cuminum Cyminum that gets you rid of the burning sensation in stomach and indigestion. You can now say goodbye to all your stomach related disorders."
+  },
+  "indication": {
+    "title": "Indication",
+    "listOfIndications": [
+      "Gastrointestinal problems",
+      "Hyper acidity",
+      "Flatulence",
+      "Burning sensation in the chest",
+      "Indigestion",
+      "Stomach-ache",
+      "Anorexia",
+      "Nausea and vomiting due to indigestion and gastric disorders"
+    ]
+  },
+  "ingredient": {
+    "title": "Ingredients",
+    "information": "Each teaspoonful (10ml) of No Gas syrup contains extract derived from:",
+    "listOfIngredients": [
+      {
+        "ingredientName": "Cuminum Cyminum ",
+        "ingredientAmount": "75.0 mg"
+      },
+      {
+        "ingredientName": "Trikatu ",
+        "ingredientAmount": "50.0 mg"
+      },
+      {
+        "ingredientName": "Mentha Arvensis ",
+        "ingredientAmount": "30.0 mg"
+      },
+      {
+        "ingredientName": "Elettaria Cardamomum ",
+        "ingredientAmount": "30.0 mg"
+      },
+      {
+        "ingredientName": "Apium Granloenens ",
+        "ingredientAmount": "25.0 mg"
+      },
+      {
+        "ingredientName": "Fueniculum Vulgare ",
+        "ingredientAmount": "15.0 mg"
+      },
+      {
+        "ingredientName": "Cariandrum Sativum ",
+        "ingredientAmount": "12.5 mg"
+      },
+      {
+        "ingredientName": "Curcuma Longa ",
+        "ingredientAmount": "12.5 mg"
+      }
+    ]
+  },
+  "dosage": {
+    "title": "Dosage",
+    "availableDosages": [
+      "Children: 1 teaspoon 3-4 times a day before meal",
+      "Adults: 2 teaspoon 3-4 times a day before meal"
+    ]
+  },
+  "packing": {
+    "title": "Packing",
+    "availableSizes": [
+      "TODO"
+    ]
+  }
+}

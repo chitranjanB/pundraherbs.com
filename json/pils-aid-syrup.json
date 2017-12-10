@@ -1,0 +1,45 @@
+{
+  "meta": {
+    "keywords": "piles, medicine, pundra, ayurvedic",
+    "description": "This oil has been formulated with specifically chosen Ayurvedic herbs which helps combat piles problem and relieves from pain."
+  },
+  "pageTitle": "Ayurvedic medicine for piles problem | Piles Aid",
+  "productImg": {
+    "src": "img/portfolio/46-large-image.png ",
+    "alt": "Piles Aid",
+    "title": "Piles Aid"
+  },
+  "productTitle": "Piles Aid",
+  "productDescription": {
+    "line1": "This oil has been formulated with specifically chosen Ayurvedic herbs which helps combat piles problem and relieves from pain.",
+    "line2": ""
+  },
+  "indication": {
+    "title": "Indication",
+    "listOfIndications": [
+      "TODO"
+    ]
+  },
+  "ingredient": {
+    "title": "Ingredients",
+    "information": "Each teaspoonful (10ml) of Piles Aid contains extract derived from:",
+    "listOfIngredients": [
+      {
+        "ingredientName": "TODO",
+        "ingredientAmount": "20.0 mg"
+      }
+    ]
+  },
+  "dosage": {
+    "title": "Dosage",
+    "availableDosages": [
+      "TODO"
+    ]
+  },
+  "packing": {
+    "title": "Packing",
+    "availableSizes": [
+      "TODO"
+    ]
+  }
+}

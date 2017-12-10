@@ -1,0 +1,15 @@
+#header {
+ background: rgba(52, 59, 64, 0.9);
+}
+
+.description, .indication, .ingredients, .dosage, .packing {
+   font-family:proxima-nova, sans-serif !important;
+    font-style: normal;
+    font-size: 15px;
+    font-weight:400;
+    
+    color: #231f20;
+    
+    line-height: 1.5em;
+}
+

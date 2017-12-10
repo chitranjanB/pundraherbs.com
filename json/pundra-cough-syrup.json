@@ -1,0 +1,78 @@
+{
+  "meta": {
+    "keywords": "cold, cough medicine, Pundra, ayurvedic, cough syrup, Bronchitis",
+    "description": "Pundra cough syrup is an Ayurvedic medicine for relieving Cough and throat irritation. It is a herbal based syrup that is fortified with Tulsi, Menthol & other powerful scientifically proven herbs."
+  },
+  "pageTitle": "Ayurvedic Medicine for Cough | Pundra Cough Syrup",
+  "productImg": {
+    "src": "img/portfolio/46-large-image.png ",
+    "alt": "Pundra Cough Syrup",
+    "title": "Pundra Cough Syrup"
+  },
+  "productTitle": "Pundra Cough Syrup",
+  "productDescription": {
+    "line1": "Pundra Cough Syrup provides effective relief from cough, without any side-effects. Pundra Cough Syrup is an ayurvedic medicine for cough that is fortified with Adhatoda Vasaka, Glycyrrhiza Glabra and other powerful scientifically proven medicinal plants as recommended by Ayurveda.",
+    "line2": "The solution is clinically proven and provides fast relief against acute cough and throat irritation. It is 100% Ayurvedic and safe."
+  },
+  "indication": {
+    "title": "Indication",
+    "listOfIndications": [
+      "Respiratory Infections",
+      "Bronchitis",
+      "Productive cough",
+      "Asthmatic Cough",
+      "Common cold",
+      "Sinusitis",
+      "Relieves Nasal Congestions",
+      "Relieves Soar Throat"
+    ]
+  },
+  "ingredient": {
+    "title": "Ingredients",
+    "information": "Each teaspoonful (10ml) of Liverin syrup contains extract derived from:",
+    "listOfIngredients": [
+      {
+        "ingredientName": "Adhatoda Vasaka (Adusa)",
+        "ingredientAmount": "20.0 mg"
+      },
+      {
+        "ingredientName": "Glycyrhiza Glabara (Yashti Madhu)",
+        "ingredientAmount": "20.0mg"
+      },
+      {
+        "ingredientName": "Trikatu",
+        "ingredientAmount": "20.0mg"
+      },
+      {
+        "ingredientName": "Menthol (Mint)",
+        "ingredientAmount": "2.0mg"
+      },
+      {
+        "ingredientName": "Holi Basil (Tulsi)",
+        "ingredientAmount": "40.0mg"
+      },
+      {
+        "ingredientName": "Ephedra Vulgaris (Somvalli)",
+        "ingredientAmount": "100.0mg"
+      },
+      {
+        "ingredientName": "Insula Racemosa (Pushkarmool)",
+        "ingredientAmount": "200.0mg"
+      }
+    ]
+  },
+  "dosage": {
+    "title": "Dosage",
+    "availableDosages": [
+      "Children: 1 teaspoon 3-4 times a day",
+      "Adults: 2 teaspoon 3-4 times a day"
+    ]
+  },
+  "packing": {
+    "title": "Packing",
+    "availableSizes": [
+      "100 ml",
+      "200 ml"
+    ]
+  }
+}

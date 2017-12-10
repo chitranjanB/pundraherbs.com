@@ -1,0 +1,84 @@
+{
+  "meta": {
+    "keywords": "ajirna syrup, digestion medicine, anorexia, apetite, ayurvedic",
+    "description": "Ajirna Syrup is an Ayurvedic solution to all your digestion related problem. It stimulates the digestive enzymes and increases the secretion of bile by correcting pancreatic insufficiency, and helps in digestion of food"
+  },
+  "pageTitle": "Ayurvedic Medicine for Liver | Ajirna Syrup",
+  "productImg": {
+    "src": "img/portfolio/46-large-image.png ",
+    "alt": "Ajirna Syrup",
+    "title": "Ajirna Syrup"
+  },
+  "productTitle": "Ajirna Syrup",
+  "productDescription": {
+    "line1": "Ajirna Syrup is an Ayurvedic solution to all your digestion related problem.",
+    "line2": " It stimulates the digestive enzymes and increases the secretion of bile by correcting pancreatic insufficiency, and helps in digestion of food"
+  },
+  "indication": {
+    "title": "Indication",
+    "listOfIndications": [
+      "Indigestion",
+      "stomach-ache",
+      "anorexia",
+      "Gastrointestinal problems",
+      "Loss of appetite",
+      "Burning sensation in the chest",
+      "Pancreatic insufficiency"
+    ]
+  },
+  "ingredient": {
+    "title": "Ingredients",
+    "information": "Each teaspoonful (10ml) of Ajirna Syrup contains extract derived from:",
+    "listOfIngredients": [
+      {
+        "ingredientName": "Tinsospora Cordifolia",
+        "ingredientAmount": "200.0 mg"
+      },
+      {
+        "ingredientName": "Forcrohiza Valgare",
+        "ingredientAmount": "200.0mg"
+      },
+      {
+        "ingredientName": "Picrohiza Kurroa",
+        "ingredientAmount": "75.0mg"
+      },
+      {
+        "ingredientName": "Embillica Ribs",
+        "ingredientAmount": "50.0mg"
+      },
+      {
+        "ingredientName": "Cyper Rotundus",
+        "ingredientAmount": "75.0mg"
+      },
+      {
+        "ingredientName": "Cuminum Eyminum",
+        "ingredientAmount": "50.0mg"
+      },
+      {
+        "ingredientName": "Piper Longum",
+        "ingredientAmount": "50.0mg"
+      },
+      {
+        "ingredientName": "Embilica Officinalis",
+        "ingredientAmount": "50.0mg"
+      },
+      {
+        "ingredientName": "Trachyspermum Ammi",
+        "ingredientAmount": "50.0mg"
+      }
+    ]
+  },
+  "dosage": {
+    "title": "Dosage",
+    "availableDosages": [
+      "Children: 1 teaspoonful or 5ml ",
+      "Adults: 2 teaspoonfuls or as directed by physician"
+    ]
+  },
+  "packing": {
+    "title": "Packing",
+    "availableSizes": [
+      "TODO"
+    ]
+  }
+}

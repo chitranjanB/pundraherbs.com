@@ -1,0 +1,170 @@
+[
+  {
+    "img": {
+      "src": "img/portfolio/liverin_syrup.jpg",
+      "alt": "Liver Tonic"
+    },
+    "details": {
+      "name": "Liverin Syrup",
+      "alink": "liverin-syrup",
+      "description": "Liver Tonic",
+      "tag": "human"
+    }
+  },
+  {
+    "img": {
+      "src": "img/portfolio/lady_fit_syrup.jpg",
+      "alt": "Lady fit syrup"
+    },
+    "details": {
+      "name": "Lady fit syrup",
+      "alink": "lady-fit-syrup",
+      "description": "Uterine tonic for women",
+      "tag": "human"
+    }
+  },
+  {
+    "img": {
+      "src": "img/portfolio/pundra_cough_syrup.jpg",
+      "alt": "Pundra Cough Syrup"
+    },
+    "details": {
+      "name": "Pundra Cough Syrup",
+      "alink": "pundra-cough-syrup",
+      "description": "Ayurvedic Cough syrup",
+      "tag": "human"
+    }
+  },
+  {
+    "img": {
+      "src": "img/portfolio/ferrum_syrup.jpg",
+      "alt": "Ferrum Syrup"
+    },
+    "details": {
+      "name": "Ferrum Syrup",
+      "alink": "ferrum-syrup",
+      "description": "Iron deficiency syrup",
+      "tag": "human"
+    }
+  },
+  {
+    "img": {
+      "src": "",
+      "alt": "Ajirna Syrup"
+    },
+    "details": {
+      "name": "Ajirna Syrup",
+      "alink": "ajirna-syrup",
+      "description": "Improves digestion",
+      "tag": "human"
+    }
+  },
+  {
+    "img": {
+      "src": "",
+      "alt": "Muscle oil"
+    },
+    "details": {
+      "name": "Muscle oil",
+      "alink": "",
+      "description": "Relives from muscle pain",
+      "tag": "human"
+    }
+  },
+  {
+    "img": {
+      "src": "",
+      "alt": "No Gas Syrup"
+    },
+    "details": {
+      "name": "No Gas Syrup",
+      "alink": "no-gas-syrup",
+      "description": "Improves digestion and gas problems",
+      "tag": "human"
+    }
+  },
+  {
+    "img": {
+      "src": "",
+      "alt": "Fertil Aid Syrup"
+    },
+    "details": {
+      "name": "Fertil Aid Syrup",
+      "alink": "fertil-aid-syrup",
+      "description": "Women reproductive health Syrup",
+      "tag": "human"
+    }
+  },
+  {
+    "img": {
+      "src": "",
+      "alt": "Divya Shakti"
+    },
+    "details": {
+      "name": "Divya Shakti",
+      "alink": "divya-shakti-syrup",
+      "description": "Men reproductive health syrup",
+      "tag": "human"
+    }
+  },
+  {
+    "img": {
+      "src": "",
+      "alt": "CLAX-FE"
+    },
+    "details": {
+      "name": "CLAX-FE",
+      "alink": "clax-fe-capsule",
+      "description": "Iron deficiency syrup",
+      "tag": "human"
+    }
+  },
+  {
+    "img": {
+      "src": "",
+      "alt": "Nasya"
+    },
+    "details": {
+      "name": "Nasya",
+      "alink": "nasya-drop",
+      "description": "Nasal congestion syrup",
+      "tag": "human"
+    }
+  },
+  {
+    "img": {
+      "src": "",
+      "alt": "Antibact oil"
+    },
+    "details": {
+      "name": "Antibact oil",
+      "alink": "antibact-oil",
+      "description": "Anitseptic oil",
+      "tag": "human"
+    }
+  },
+  {
+    "img": {
+      "src": "",
+      "alt": "Piles Aid Syrup"
+    },
+    "details": {
+      "name": "Piles Aid Syrup",
+      "alink": "piles-aid-syrup",
+      "description": "Piles medicine",
+      "tag": "human"
+    }
+  },
+  {
+    "img": {
+      "src": "",
+      "alt": "Resp. Divyani Syrup"
+    },
+    "details": {
+      "name": "Resp. Divyani Syrup",
+      "alink": "resp-divyani-syrup",
+      "description": "Respiratory disorder medicine",
+      "tag": "human"
+    }
+  }
+]

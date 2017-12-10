@@ -1,0 +1,50 @@
+{
+  "meta": {
+    "keywords": "ferrum syrup, iron deficiency, anaemia, Pundra herbs, ayurvedic",
+    "description": "A balanced combination of Ayurvedic ingredients and is one of the best-tolerated iron supplements"
+  },
+  "pageTitle": "Ayurvedic Medicine for Iron deficiency | Ferrum Syrup",
+  "productImg": {
+    "src": "img/portfolio/46-large-image.png ",
+    "alt": "Ferrum Syrup",
+    "title": "Ferrum Syrup"
+  },
+  "productTitle": "Ferrum Syrup",
+  "productDescription": {
+    "line1": "A balanced combination of Ayurvedic ingredients and is one of the best-tolerated iron supplements. It provides an optimum tolerance for the iron preparation.",
+    "line2": ""
+  },
+  "indication": {
+    "title": "Indication",
+    "listOfIndications": [
+      "Iron deficiency Anemia",
+      "Pregnancy anemia",
+      "Lactation",
+      "Loss of appetite",
+      "General weakness ",
+      "Convalescence"
+    ]
+  },
+  "ingredient": {
+    "title": "Ingredients",
+    "information": "Each teaspoonful (10ml) of Liverin syrup contains extract derived from:",
+    "listOfIngredients": [
+      {
+        "ingredientName": "TODO",
+        "ingredientAmount": "20.0 mg"
+      }
+    ]
+  },
+  "dosage": {
+    "title": "Dosage",
+    "availableDosages": [
+      "As directed by the physician"
+    ]
+  },
+  "packing": {
+    "title": "Packing",
+    "availableSizes": [
+      "200 ml"
+    ]
+  }
+}

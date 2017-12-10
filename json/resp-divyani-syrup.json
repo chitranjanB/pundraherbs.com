@@ -1,0 +1,48 @@
+{
+  "meta": {
+    "keywords": "bronchitis, throat, asthama, respiratory infection, ayurvedic",
+    "description": "Resp. Divyani is an ayurvedic medicine for Bronchitis, Throat Infection and Ashthamatic cough. "
+  },
+  "pageTitle": "Ayurvedic Medicine for Liver | Resp. Divyani Syrup",
+  "productImg": {
+    "src": "img/portfolio/46-large-image.png ",
+    "alt": "Resp. Divyani Syrup",
+    "title": "Resp. Divyani Syrup"
+  },
+  "productTitle": "Resp. Divyani Syrup",
+  "productDescription": {
+    "line1": "Resp. Divyani is an ayurvedic medicine for Bronchitis, Throat Infection and Ashthamatic cough.",
+    "line2": "The medicinal plants used for the formulation has been recommended by Ayurveda and it helps in battling Respiratory infection, liquifies mucous secreation."
+  },
+  "indication": {
+    "title": "Indication",
+    "listOfIndications": [
+      "Respiratory Infection",
+      "Bronchitis",
+      "Asthmatic Cough",
+      "Throat Infection"
+    ]
+  },
+  "ingredient": {
+    "title": "Ingredients",
+    "information": "Each teaspoonful (10ml) of Resp. Divyani Syrup contains extract derived from:",
+    "listOfIngredients": [
+      {
+        "ingredientName": "TODO",
+        "ingredientAmount": "20.0 mg"
+      }
+    ]
+  },
+  "dosage": {
+    "title": "Dosage",
+    "availableDosages": [
+      "TODO"
+    ]
+  },
+  "packing": {
+    "title": "Packing",
+    "availableSizes": [
+      "TODO"
+    ]
+  }
+}
